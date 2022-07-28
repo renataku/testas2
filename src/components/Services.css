@@ -1,0 +1,13 @@
+.services {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 90vh;
+  margin-top: 70px;
+}
+
+.services-cards {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 70px;
+}

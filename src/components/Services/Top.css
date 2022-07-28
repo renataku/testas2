@@ -1,0 +1,29 @@
+.top {
+  margin-top: 20px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.service-top-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  color: #124265;
+  font-size: 60px;
+  text-transform: capitalize;
+}
+
+.service-top-sentence {
+  font-family: "Raleway", sans-serif;
+  color: #5e5e5e;
+  font-size: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.top-button button {
+  font-size: 18px;
+  padding: 20px 60px;
+}
